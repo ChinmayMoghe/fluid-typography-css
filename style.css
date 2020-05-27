@@ -27,7 +27,7 @@ header {
 }
 
 .article-content {
-    width: 40vw;
+    width: 24em;
 }
 
 @media screen and (min-width: 320px) {
